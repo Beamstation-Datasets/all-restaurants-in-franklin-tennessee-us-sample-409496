@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Franklin in the Southeast. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Franklin, Tennessee, US",
+  "export_job_id": "b22d4acd-ee65-488b-a946-ed355fe50663",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 409496,
+  "location_name": "Franklin",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-franklin-tennessee-us-sample-409496",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/409496/beamstation_409496_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 8.39,
+  "sample_records": 25,
+  "sample_sha256": "9cf5690fed95727f54425c828d753ce8daa48b80d7a9b2cd93be4be77002d244",
+  "sample_size_bytes": 118335,
+  "total_records": 298,
+  "updated_at": "2026-03-31T14:03:57.832735+00:00"
+}
