@@ -1,6 +1,6 @@
 # All Restaurants in Franklin, Tennessee, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `409496` |
 | Location | Franklin |
 | Category | Restaurants |
-| Full dataset size | 298 records |
-| Free sample size | 25 records (8.39%) |
-| Last export | 2026-03-31T14:03:57.832735+00:00 |
+| Full dataset size | 320 records |
+| Free sample size | 32 records (10.0%) |
+| Last export | 2026-04-14T14:27:21.982893+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-franklin-tennessee-us-sample-409496/releases/download/sample-latest/beamstation_409496_restaurants-us-tn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
