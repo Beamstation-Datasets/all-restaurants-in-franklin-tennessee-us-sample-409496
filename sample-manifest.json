@@ -1,12 +1,12 @@
 {
-  "export_job_id": "56e6187a-9e15-4e16-ac83-280cdc91c070",
+  "export_job_id": "f7609ca9-1629-4337-84cd-955896dd4020",
   "id_short": 409496,
-  "published_at": "2026-04-17T19:25:41Z",
+  "published_at": "2026-04-21T19:23:01Z",
   "repo_name": "all-restaurants-in-franklin-tennessee-us-sample-409496",
   "sample_asset_name": "beamstation_409496_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/409496/beamstation_409496_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "f745afcf859f6d0af1927c37a8b8b4e3cb5bc9f5cde00537e67fa66b86b13339",
-  "sample_size_bytes": 133370,
-  "total_records": 320
+  "sample_records": 36,
+  "sample_sha256": "cc085642a8d74937ed2d3b88ce6525d4468b9f12d371417c5d57d358a741cd50",
+  "sample_size_bytes": 150385,
+  "total_records": 366
 }
